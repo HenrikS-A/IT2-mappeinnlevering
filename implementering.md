@@ -8,9 +8,9 @@
 - Gjør oppgave 2.1 - 2.4 (pseudokode)
 - Gjør oppgave 2.12 - 2.14 (algoritmer)
 
-> [Legg inn pactroll der jeg har lagt inn slik at matbiter ikke spawner oppå hverandre!!! OG kanskje lage en metode for kollisjoner???!!!]()  
+> [Pactroll](https://github.com/HenrikS-A/IT2-23-24/tree/main/3-prosjekt-og-mappearbeid/uke15/pactroll)  
 > 
-> TODO Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering  
+> DONE Lim inn lenke til github-repository som inneholder avanserte løsninger med programmering  
 
 > Jeg hadde presentasjon 2. mai 2024  
 >  
@@ -30,9 +30,9 @@
 
 (Docstrings blir gjennomgått på tavlen etter påske)
 
-> [LEGG INN PACTROLL!!]()
+> [Pactroll](https://github.com/HenrikS-A/IT2-23-24/tree/main/3-prosjekt-og-mappearbeid/uke15/pactroll/pactroll.py)
 >
-> TODO: Lim inn lenke til kode som er dokumentert med docstrings
+> DONE: Lim inn lenke til kode som er dokumentert med docstrings
 
 
 ## Innhente, analysere og presentere data
