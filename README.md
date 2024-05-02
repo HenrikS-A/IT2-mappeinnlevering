@@ -23,15 +23,14 @@ Avtal tidspunkt for presentasjon innen 26. april
 
 
 ## Viktige datoer
-
 | Dato              | Beskrivelse                          |
 | ----------------- | ------------------------------------ |
 | 23. apr / 25. apr | Tentamen                             |
 | 26. apr           | Frist for å avtale presentasjonsdato |
 | 10. mai           | Mappeinnlevering                     |
 
-## Emner
 
+## Emner
 - [Problemløsning](problemlosning.md)
   - [metoder, teknikker og verktøy](./problemlosning.md#metoder-teknikker-og-verktøy)
   - [alternative løsninger](./problemlosning.md#alternative-løsninger)
@@ -50,8 +49,8 @@ Avtal tidspunkt for presentasjon innen 26. april
   - [standarder for lagring, utveksling og sikring av data](./samfunn-og-systemer.md#standarder-for-lagring-utveksling-og-sikring-av-data)
   - [brukervennlighet i informasjonssystemer](./samfunn-og-systemer.md#brukervennlighet-i-informasjonssystemer)
 
-## Vurderingskriterier
 
+## Vurderingskriterier
 | Kategori                          | Lav kompetanse (2)                                                                                                               | God kompetanse (4)                                                                                                                 | Utmerket kompetanse (6)                                                                                               |
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Samfunn og systemer**           | identifiserer og beskriver problemstillinger knyttet til etiske dilemma og konsekvenser av bruk av IT                            | utforsker og forklarer problemstillinger knyttet til etiske dilemma og konsekvenser av bruk av IT                                  | utforsker og vurderer problemstillinger knyttet til etiske dilemma og konsekvenser av bruk av IT ved kritisk drøfting |

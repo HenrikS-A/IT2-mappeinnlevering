@@ -28,12 +28,3 @@
 > Plan: Presentere et nytt prosjekt eller et jeg allerede har laget. Da skal jeg også se på brukervennlighet!!
 > 
 > TODO Hold presentasjon der du presenterer ett eller flere prosjekter
-
-
-## Vurderingskriterier
-
-| Kategori                          | Lav kompetanse (2)                                                       | God kompetanse (4)                                                                 | Utmerket kompetanse (6)                                                                 |
-| --------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **Modellering og representasjon** | tolker og bruker objektorienterte modeller som beskriver programstruktur | vurderer og videreutvikler objektorienterte modeller som beskriver programstruktur | forbedre og lager komplette objektorienterte modeller som beskriver programstruktur     |
-|                                   | representerer programflyt med enkle kontrollstrukturer                   | representerer programflyt med hensiktsmessige sammensatte kontrollstrukturer       | representerer programflyt med hensiktsmessige og effektive avanserte kontrollstrukturer |
-|                                   | peker på brukervennlighet i programmer                                   | forklarer ulike sider ved brukervennlighet i programmer                            | vurderer brukervennlighet i programmer og foreslår hensiktsmessige forbedringer         |
