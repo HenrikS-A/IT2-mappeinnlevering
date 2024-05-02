@@ -14,12 +14,12 @@ Når du er ferdig med en TODO, endrer du `TODO` til `DONE`, slik:
 
 DONE:
 Les om TODOs  
-
-Unødvendig: 
+ 
 Klon dette repository-et med en terminal i VS Code. `Terminal` -> `New Terminal`, lim inn `git clone https://github.com/thorcc/IT2-VGS`  
 
-TODO 
+DONE 
 Avtal tidspunkt for presentasjon innen 26. april
+- Jeg hadde presentasjon 2. mai 2024
 
 
 ## Viktige datoer

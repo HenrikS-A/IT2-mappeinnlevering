@@ -28,22 +28,28 @@
 - Oppdater prosjektet/prosjektene slik at brukerens tilbakemeldinger blir tatt hensyn til.
 
 ### Mine tilbakemeldinger
-> Plan: Få tilbakemelding på et nytt prosjekt eller et jeg allerede har laget.
-> 
-> TODO Skriv minst tre tilbakemeldinger her
+> Se tilbakemeldingene under.  
+> DONE Skriv minst tre tilbakemeldinger her
 
-### Eksempler på tilbakemeldinger
+### Tilbakemeldinger:  
 
-#### Tilbakemelding #1
+#### Tilbakemelding #1  
 
-**Prosjekt:** [Nettsted: https://ai-foodr.netlify.app](https://ai-foodr.netlify.app/) / [Kode: https://github.com/thorcc/oppskriftsgeneratoren-open-ai](https://github.com/thorcc/oppskriftsgeneratoren-open-ai)  
-**Bruker:** Kvinnelig lærer på 30 år, uten barn, bosatt i Oslo, middels opptatt av mat  
-**Tilbakemelding:** "Det er vanskelig å se at den holder på å generere en oppskrift"  
-**Tiltak:** La til en spinnende mikrobølgeovn som vises mens den appen genererer oppskrifter
+**Prosjekt:** Pactroll / [https://github.com/HenrikS-A/IT2-23-24/tree/main/3-prosjekt-og-mappearbeid/uke15/pactroll](https://github.com/HenrikS-A/IT2-23-24/tree/main/3-prosjekt-og-mappearbeid/uke15/pactroll)  
+**Bruker:** Gutt 19 år, IT2 elev, interessert i kode og programmering  
+**Tilbakemelding:** Du har ikke docstrings til klassene dine.  
+**Tiltak:** Jeg la til docstrings.  
 
-#### Tilbakemelding #2
+#### Tilbakemelding #2  
 
-**Prosjekt:** *Lenke til prosjekt*  
-**Bruker:** Gutt 5 år, går i barnehage, bosatt i Kristisansand, veldig glad i mobilspill   
-**Tilbakemelding:** "Spillet er alt for vanskelig"  
-**Tiltak:** Satt ned hastigheten på spillet
+**Prosjekt:** Pactroll / [https://github.com/HenrikS-A/IT2-23-24/tree/main/3-prosjekt-og-mappearbeid/uke15/pactroll](https://github.com/HenrikS-A/IT2-23-24/tree/main/3-prosjekt-og-mappearbeid/uke15/pactroll)  
+**Bruker:** Mann 33 år, IT2 lærer, underviser IT1 og IT2 ved Sandvika VGS  
+**Tilbakemelding:** Nye matbiter spawner oppå hverandre. Prøv å lag *avansert kode* som fikser dette problemet! Prøv også å lage en metode for all kollisjonskode.  
+**Tiltak:** Jeg fikset opp i det.  
+
+#### Tilbakemelding #3  
+
+**Prosjekt:** Drag Race Spillprosjekt / [https://github.com/HenrikS-A/IT2-drag-race-spillprosjekt](https://github.com/HenrikS-A/IT2-drag-race-spillprosjekt)  
+**Bruker:** Gutt 19 år, IT2 elev, interessert i kode og programmering.  
+**Tilbakemelding:** Jeg skjønte ikke med en gang hvordan man får bilen til å kjøre forover.   
+**Tiltak:** Jeg la til et lite tekst-hint nederst på skjermen.   
